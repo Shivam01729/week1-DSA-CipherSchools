@@ -1,2 +1,2 @@
 # week1-DSA-CipherSchools
-WEEK1
+WEEK-1
